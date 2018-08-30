@@ -1,0 +1,5 @@
+Material naming convention--
+
+M_'material name'_'Assignment'
+Ex: M_WhiteBox_AP [Asset Pipeline = AP]
+
